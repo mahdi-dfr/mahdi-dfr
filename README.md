@@ -47,9 +47,8 @@ I'm a Fullstack Mobile Developer with expertise in building captivating mobile a
 
 **Let's Connect!**
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-link/)
-* [Twitter](https://twitter.com/your-twitter-username) (if applicable)
-* [Email](your_email@example.com) 
+* [LinkedIn](https://www.linkedin.com/in/mehdi-daneshfar-900a6a232/)
+* [Email](mdfr1376@gmail.com) 
 
 ---
 
