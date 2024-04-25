@@ -1,13 +1,40 @@
 **Hi there, I'm Mahdi Daneshfar!** 
 
-[![Avatar Image](https://placeimg.com/150/150/people)][Your Portfolio/Website Link (if applicable)]  I'm a passionate Fullstack Mobile Developer with expertise in building captivating mobile applications using Kotlin, Java, and the powerful Flutter framework. My backend development skills extend to Django REST Framework, enabling me to craft robust and efficient APIs.
+[![Avatar Image](https://placeimg.com/150/150/people)][Your Portfolio/Website Link (if applicable)]
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/your-linkedin-profile-link/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/your-twitter-username"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    </div>
+</div>
+
+<div align="center">
+  <h1>
+    I'm a passionate Fullstack Mobile Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I'm a Fullstack Mobile Developer with expertise in building captivating mobile applications using Kotlin, Java, and the powerful Flutter framework. My backend development skills extend to Django REST Framework, enabling me to craft robust and efficient APIs.
 
 **My Skillset:**
 
 * **Frontend:**
     * Kotlin
-    * Flutter
     * Java
+    * Flutter
 * **Backend:**
     * Django REST Framework
 
@@ -24,13 +51,11 @@
 * [Twitter](https://twitter.com/your-twitter-username) (if applicable)
 * [Email](your_email@example.com) 
 
-**My Projects:**
+---
 
-* [Project 1 Name](https://github.com/mahdidaneshfar/project1) (Brief description)
-* [Project 2 Name](https://github.com/mahdidaneshfar/project2) (Brief description)
-* (Add more project links and descriptions as needed)
+### :hammer_and_wrench: Languages and Tools :
 
-**Stats and Badges (Optional):**
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,flutter,django)](https://skillicons.dev)  **Optional Stats and Badges:**
 
 You can add badges for your preferred metrics using services like Shields.io or Badge.fyi. Here are some examples:
 
@@ -38,6 +63,7 @@ You can add badges for your preferred metrics using services like Shields.io or 
 * GitHub stats (stars, forks, etc.)
 * Contribution streak
 * Visitor count
+
 
 **Customization Tips:**
 
@@ -50,7 +76,7 @@ You can add badges for your preferred metrics using services like Shields.io or 
 
 **Using Beautiful Icons:**
 
-For fetching icons, you can leverage resources like:
+For fetching icons, leverage resources like:
 
 * **DevIcons:** https://github.com/devicons/devicon (SVG icons for programming languages and frameworks)
 * **Font Awesome:** https://fontawesome.com/ (Extensive icon library with various styles)
