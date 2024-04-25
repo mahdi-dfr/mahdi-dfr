@@ -1,7 +1,5 @@
 **Hi there, I'm Mahdi Daneshfar!** 
 
-[![Avatar Image](https://placeimg.com/150/150/people)][Your Portfolio/Website Link (if applicable)]
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -47,9 +45,8 @@ I'm a Fullstack Mobile Developer with expertise in building captivating mobile a
 
 **Let's Connect!**
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-link/)
-* [Twitter](https://twitter.com/your-twitter-username) (if applicable)
-* [Email](your_email@example.com) 
+* [LinkedIn](https://www.linkedin.com/in/mehdi-daneshfar-900a6a232/)
+* [Email](mdfr1376@gmail.com) 
 
 ---
 
@@ -84,7 +81,3 @@ I'm a Fullstack Mobile Developer with expertise in building captivating mobile a
 * GitHub
 * GitLab
 
-**Customization Tips:**
-
-- You can adjust the order of sections based on your priorities.
-- Consider adding brief descriptions for each skill or tool if you want to provide more details.
