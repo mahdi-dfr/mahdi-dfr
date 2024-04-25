@@ -6,8 +6,7 @@
     <a href="https://www.linkedin.com/in/mehdi-daneshfar-900a6a232/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/mehdi_dfr"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    <a href="mailto:mdfr1376@gmail.com">  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>  </a>
     </div>
 </div>
 
@@ -45,7 +44,8 @@ I'm a passionate Android and Flutter developer with a strong track record of bui
 **Let's Connect!**
 
 * [LinkedIn](https://www.linkedin.com/in/mehdi-daneshfar-900a6a232/)
-* [Email](mdfr1376@gmail.com) 
+* [Email](mdfr1376@gmail.com)
+* [Telegram](https://te.me/mehdi_dfr17) 
 
 ---
 
