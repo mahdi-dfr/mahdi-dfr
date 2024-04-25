@@ -17,30 +17,29 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
 ### :man_technologist: About Me :
 
-I'm a Fullstack Mobile Developer with expertise in building captivating mobile applications using Kotlin, Java, and the powerful Flutter framework. My backend development skills extend to Django REST Framework, enabling me to craft robust and efficient APIs.
+I'm a passionate Android and Flutter developer with a strong track record of building engaging and performant mobile applications. My expertise lies in leveraging Kotlin and Java for native Android development, and I'm proficient in utilizing the powerful Flutter framework to create cross-platform apps that deliver exceptional user experiences. Additionally, my backend development skills with Django REST Framework enable me to craft robust and efficient APIs to power these applications.
 
 **My Skillset:**
 
-* **Frontend:**
+* **Mobile:**
     * Kotlin
-    * Java
     * Flutter
+    * Java
 * **Backend:**
     * Django REST Framework
 
 **Looking to:**
 
-* Collaborate on exciting projects
-* Contribute to open-source communities
-* Connect with fellow developers
+* **Land a position** at a **progressive** and **challenging** company where I can leverage my mobile development expertise to **contribute to impactful projects**.
+* **Become a valuable member** of a **collaborative** and **growth-oriented** team, learning from experienced professionals and **driving innovation** together.
+* **Contribute to open-source communities** that align with my interests and stay at the forefront of technological advancements.
+* **Connect with fellow developers** to **share knowledge, collaborate on exciting initiatives**, and build a strong professional network.
+
 
 
 **Let's Connect!**
