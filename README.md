@@ -56,8 +56,8 @@ I'm a passionate Android and Flutter developer with a strong track record of bui
 **Mobile Development:**
 
 * Kotlin
-* Java
 * Flutter
+* Java
 
 **Backend Development:**
 
@@ -68,11 +68,6 @@ I'm a passionate Android and Flutter developer with a strong track record of bui
 
 * Docker
 * Ubuntu
-
-**Database Management:**
-
-* PostgreSQL
-* pgAdmin
 
 **Version Control:**
 
