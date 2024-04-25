@@ -55,36 +55,36 @@ I'm a Fullstack Mobile Developer with expertise in building captivating mobile a
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,flutter,django)](https://skillicons.dev)  **Optional Stats and Badges:**
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,flutter,python,django,docker,ubuntu,postgresql,pgadmin,git,github,gitlab)](https://skillicons.dev)
 
-You can add badges for your preferred metrics using services like Shields.io or Badge.fyi. Here are some examples:
+**Mobile Development:**
 
-* Languages you're proficient in (using DevIcons)
-* GitHub stats (stars, forks, etc.)
-* Contribution streak
-* Visitor count
+* Kotlin
+* Java
+* Flutter
 
+**Backend Development:**
+
+* Python
+* Django REST Framework
+
+**DevOps & Infrastructure:**
+
+* Docker
+* Ubuntu
+
+**Database Management:**
+
+* PostgreSQL
+* pgAdmin
+
+**Version Control:**
+
+* Git
+* GitHub
+* GitLab
 
 **Customization Tips:**
 
-* Replace the placeholder image with your own avatar.
-* Include links to your portfolio or website if you have them.
-* Tailor the "Looking to" section to your specific goals.
-* Add more projects as you build them.
-* Consider incorporating badges to showcase your accomplishments (optional).
-
-
-**Using Beautiful Icons:**
-
-For fetching icons, leverage resources like:
-
-* **DevIcons:** https://github.com/devicons/devicon (SVG icons for programming languages and frameworks)
-* **Font Awesome:** https://fontawesome.com/ (Extensive icon library with various styles)
-* **Simple Icons:** https://simpleicons.org/ (Simple and consistent icons for popular brands)
-
-**Here's how to use DevIcons (example):**
-
-```markdown
-* Kotlin: [Kotlin: [invalid URL removed]]
-* Java: [Java: [invalid URL removed]]
-* Flutter: [Flutter: [invalid URL removed]]
+- You can adjust the order of sections based on your priorities.
+- Consider adding brief descriptions for each skill or tool if you want to provide more details.
